@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Jack of spades",
+    "nick": "",
+    "person": "Ogier"
+  },
+  {
+    "name": "Queen of spades",
+    "nick": "",
+    "person": "Athena"
+  },
+  {
+    "name": "King of spades",
+    "nick": "KS",
+    "person": "David"
+  },
+  {
+    "name": "Jack of hearts",
+    "nick": "",
+    "person": "La Hire"
+  },
+  {
+    "name": "Queen of hearts",
+    "nick": "",
+    "person": ""
+  },
+  {
+    "name": "King of heart",
+    "nick": "KH",
+    "person": "Charles"
+  },
+  {
+    "name": "Jack of diamonds",
+    "nick": "",
+    "person": "Hector"
+  },
+  {
+    "name": "Queen of diamonds",
+    "nick": "",
+    "person": "Rachel"
+  },
+  {
+    "name": "King of diamonds",
+    "nick": "KD",
+    "person": "Caesar"
+  },
+  {
+    "name": "Jack of clubs",
+    "nick": "",
+    "person": "Lancelot"
+  },
+  {
+    "name": "Queen of clubs",
+    "nick": "",
+    "person": "Argine"
+  },
+  {
+    "name": "King of clubs",
+    "nick": "KC",
+    "person": "Alexandre"
+  }
+]
